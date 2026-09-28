@@ -4,3 +4,6 @@ StateEstimation = "4fce2bbc-5a0b-410b-9d47-e8553a00ba99"
 
 [sources]
 StateEstimation = {path = ".."}
+
+[compat]
+Documenter = "1.19.0"
