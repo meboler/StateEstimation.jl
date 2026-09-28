@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+StateEstimation = "4fce2bbc-5a0b-410b-9d47-e8553a00ba99"
+
+[sources]
+StateEstimation = {path = ".."}
